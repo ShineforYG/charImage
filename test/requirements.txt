@@ -15,7 +15,7 @@ opencv-contrib-python==4.0.0.21
 opencv-python==4.0.0.21
 Pillow==5.3.0
 protobuf==3.6.1
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.0
 scipy==1.1.0
 six==1.11.0
